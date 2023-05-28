@@ -1,4 +1,4 @@
-# How to set up golang gin server boiler plat
+# How to set up golang gin server boiler plate
 
 1. Create a new directory for your project and navigate to it in your terminal.
 2. Run the following command to initialize a new Go module
